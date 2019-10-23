@@ -3,4 +3,4 @@
 
 ## 产品介绍
 
-[![无人机](../img/multirotor2.png)](../img/multirotor2.png)
+[![无人机](.\img\multirotor2.png)](.\img\multirotor2.png)

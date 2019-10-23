@@ -1,6 +1,6 @@
 site_name: 北京明学思机器人科技有限公司
 
-site_url: https://mxsrobot.github.io
+site_url: https://mxsrobot.com
 site_description: Project documentation with Markdown.
 site_author: XueYuSky
 
@@ -14,5 +14,5 @@ theme:
 
 nav:
   - 首页: index.md
-  - 页面2: doc2.md
-  - 使用帮助: doc3.md
+  - 页面2: post/doc2.md
+  - 使用帮助: post/doc3.md
