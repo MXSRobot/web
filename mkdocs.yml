@@ -14,5 +14,6 @@ theme:
 
 nav:
   - 首页: index.md
-  - 页面2: post/doc2.md
-  - 使用帮助: post/doc3.md
+  - 产品介绍: post/product.md
+  - 关于我们: post/aboutus.md
+  - 联系我们: post/contactus.md
