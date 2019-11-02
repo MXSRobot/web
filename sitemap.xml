@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://mxsrobot.com/</loc>
-     <lastmod>2019-10-23</lastmod>
+     <lastmod>2019-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mxsrobot.com/post/doc2/</loc>
-     <lastmod>2019-10-23</lastmod>
+     <loc>https://mxsrobot.com/post/product/</loc>
+     <lastmod>2019-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mxsrobot.com/post/doc3/</loc>
-     <lastmod>2019-10-23</lastmod>
+     <loc>https://mxsrobot.com/post/aboutus/</loc>
+     <lastmod>2019-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://mxsrobot.com/post/contactus/</loc>
+     <lastmod>2019-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
